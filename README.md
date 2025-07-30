@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sarthak 👋</h1>
-<h3 align="center">A student from India who Codes.</h3>
+<h3 align="center">A student from India who can Code.</h3>
 
 ### Languages and Tools : 
 
